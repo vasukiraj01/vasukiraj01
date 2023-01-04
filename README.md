@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Vasuki</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fscaler-create-impact-coding-programming-chill-gif-24991316&psig=AOvVaw0LUFOtnK53ieFnxqXEuDXi&ust=1672903490872000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDg86ixrfwCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="gitimage.gif">
 
 - 🌱 I’m currently learning **React,AWS**
 
