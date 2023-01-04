@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>A bit about Myself, I am <b>Vasuki</b> graduated <b>Electronics and Instrumentation Engineering</b> As of now, I am focused on <b>web development,Java Full-Stack Development and Cloud Computing</b> but still, wish to explore many fields.</p>
 
-<h3 align="center"> Paasionate Full-Stack Developer | Cloud Computing </h3>
+<h3 align="left"> Paasionate Full-Stack Developer | Cloud Computing </h3>
 <br><br><br><br><br><br><br>
 <h1>Technical Skills 🛠</h1>
    
