@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vasuki-rajendran-b64b6616b/" target="_blank"> Vasuki Rajendran</a></h1>
-<h2 aligin="center">###A Passionate Full Stack Deeveloper</h2>
+<h2 align="center">A Passionate Full Stack Deeveloper</h2>
 <img width="40%" align="right"   src="https://github.com/vasukiraj01/vasukiraj01/blob/cc210b205907d2291773400eccef88a406172cfe/workbench.gif" >
 
 A bit about Myself, I am <b>Vasuki</b> graduated <b>Electronics and Instrumentation Engineering</b> As of now, I am focused on <b>web development,Java Full-Stack Development and Cloud Computing</b> but still, wish to explore many fields. ⚡
