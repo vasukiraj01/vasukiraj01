@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <h1>Technical Skills 🛠</h1>
    
 I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. And I also building up myskills with backend.
-Tech: AWS Cloud, Docker, Elastic Search, Angular JS, React JS, Spring, Mysql.
-Known Languages: Java, Html, JavaScript, and CSS.
+<br><p>Tech: AWS Cloud, Docker, Elastic Search, Angular JS, React JS, Spring, Mysql.</p>
+<br>Known Languages: Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
@@ -48,8 +48,8 @@ Known Languages: Java, Html, JavaScript, and CSS.
 </p>
 
 
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
-
+<!--I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+-->
 <!-- <h1 align="center">Projects</h1>
 | Project Name      | Description | 
 | :---:        |    :----   |  
