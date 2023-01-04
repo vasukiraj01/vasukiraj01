@@ -1,4 +1,6 @@
-
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vasuki-rajendran-b64b6616b/" target="_blank"> Vasuki Rajendran</a></h1>
+<h2 align="center">A Passionate Full Stack Deeveloper</h2>
+<img width=40% align="right" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif"/>
 
 **vasukiraj01/vasukiraj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,11 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vasukiraj01@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When learning to code, Google is your best friend.
-
-
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vasuki-rajendran-b64b6616b/" target="_blank"> Vasuki Rajendran</a></h1>
-<h2 align="center">A Passionate Full Stack Deeveloper</h2>
-<img width=40% align="right" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif"/>
 
 <p>A bit about Myself, I am <b>Vasuki</b> graduated <b>Electronics and Instrumentation Engineering</b> As of now, I am focused on <b>web development,Java Full-Stack Development and Cloud Computing</b> but still, wish to explore many fields.</p>
 
