@@ -1,18 +1,16 @@
 
-<!--
+
 **vasukiraj01/vasukiraj01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--- 🔭 I’m currently working on ...-->
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about Spring,AWS
+- 📫 How to reach me: vasukiraj01@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: When learning to code, Google is your best friend.
+
 
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vasuki-rajendran-b64b6616b/" target="_blank"> Vasuki Rajendran</a></h1>
 <h2 align="center">A Passionate Full Stack Deeveloper</h2>
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br><br>
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. And I also building up myskills with backend.
+I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. And I'm also building up myskills with backend.
 <br><p>Tech: AWS Cloud, Docker, Elastic Search, Angular JS, React JS, Spring, Mysql.</p>
 <br>Known Languages: Java, Html, JavaScript, and CSS.
 
