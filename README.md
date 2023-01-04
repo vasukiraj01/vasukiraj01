@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 A bit about Myself, I am <b>Vasuki</b> graduated <b>Electronics and Instrumentation Engineering</b> As of now, I am focused on <b>web development,Java Full-Stack Development and Cloud Computing</b> but still, wish to explore many fields. ⚡
 
-<h3 align="center"> Paasionate Web Developer | Cloud Computing </h3>
+<h3 align="center"> Paasionate Full-Stack Developer | Cloud Computing </h3>
 
 <h1>Technical Skills 🛠</h1>
    
@@ -30,7 +30,7 @@ Known Languages: Java, Html, JavaScript, and CSS.
 
 <p align="center"> 
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -43,7 +43,7 @@ Known Languages: Java, Html, JavaScript, and CSS.
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 </p>
 
