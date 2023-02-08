@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/vasuki-rajendran-b64b6616b/" target="_blank"> Vasuki Rajendran</a></h1>
-<h2 align="center">A Passionate Full Stack Deeveloper</h2>
+<h2 align="center">A Passionate Full Stack Developer</h2>
 <img width=40% align="right" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif"/>
 
 Here are some ideas to get you started:
